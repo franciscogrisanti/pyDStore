@@ -2,7 +2,7 @@
 
 This is a simple package. 
 
-install by --->
+install by ---> pip install pyDStore
 
 ## pip install pyDStore
 
